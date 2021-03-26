@@ -1,6 +1,6 @@
 pragma solidity 0.6.1;
 
-import "./Crowdsale.sol";
+import "https://github.com/dosinhuda/TOKENIZATION/blob/e9c90433f34d1bec66b38d016d038ee1f32b4850/Crowdsale.sol";
 import "./KycContract.sol";
 
 contract MyTokenSale is Crowdsale {
